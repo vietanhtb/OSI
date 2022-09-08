@@ -4,30 +4,30 @@
 
 ***
 # Mục lục
-## [I. Mô hình OSI là gì] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L33)
+## [I. Mô hình OSI là gì](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L33)
 
-*  ### [1. Tầng vật lý(Physical layer) ] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L45)
+*  ### [1. Tầng vật lý(Physical layer) ](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L45)
    
-*  ### [2. Tầng liên kết (Datalink) ] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L56)
+*  ### [2. Tầng liên kết (Datalink) ](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L56)
     
-* ### [3. Tầng mạng (Network) ] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L60)
+* ### [3. Tầng mạng (Network) ](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L60)
     
-* ### [4. Tầng vận chuyển (Transport) ] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L63)
+* ### [4. Tầng vận chuyển (Transport) ](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L63)
     
-* ### [5. Tầng phiên (Session) ] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L68)
+* ### [5. Tầng phiên (Session) ](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L68)
     
-* ### [6. Tầng trình diễn (Presentation) ] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L71)
+* ### [6. Tầng trình diễn (Presentation) ](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L71)
     
-* ### [7. Tầng Ứng dụng (Application)] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L73)
+* ### [7. Tầng Ứng dụng (Application)](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L73)
 
     
- ## [II. Các giao thức trong OSI] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L75)
+ ## [II. Các giao thức trong OSI](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L75)
  
- ## [III. Phương thức hoạt động của mô hình OSI] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L76)
+ ## [III. Phương thức hoạt động của mô hình OSI](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L76)
  
-* ### [1. Bên máy gửi] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L77)
+* ### [1. Bên máy gửi](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L77)
     
-* ### [2. Bên máy nhận] (https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L85)
+* ### [2. Bên máy nhận](https://vscode.dev/github/vietanhtb/OSI/blob/07680ea5fb98df45b460aa029a1a839fdcdf1b5e/README.md#L85)
     
 ***
 # ***I.	Mô hình OSI là gì***
