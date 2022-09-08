@@ -4,30 +4,30 @@
 
 ***
 # Mục lục
-## [I. Mô hình OSI là gì]()
+## [I. Mô hình OSI là gì](https://github.com/vietanhtb/OSI#im%C3%B4-h%C3%ACnh-osi-l%C3%A0-g%C3%AC)
 
-*  ### [1. Tầng vật lý(Physical layer) ]()
+*  ### [1. Tầng vật lý(Physical layer) ](https://github.com/vietanhtb/OSI#1-t%E1%BA%A7ng-v%E1%BA%ADt-l%C3%BD-physical-layer)
    
-*  ### [2. Tầng liên kết (Datalink) ]()
+*  ### [2. Tầng liên kết (Datalink) ](https://github.com/vietanhtb/OSI#2-t%E1%BA%A7ng-li%C3%AAn-k%E1%BA%BFt-datalink)
     
-* ### [3. Tầng mạng (Network) ]()
+* ### [3. Tầng mạng (Network) ](https://github.com/vietanhtb/OSI#3-t%E1%BA%A7ng-m%E1%BA%A1ng-network)
     
-* ### [4. Tầng vận chuyển (Transport) ]()
+* ### [4. Tầng vận chuyển (Transport) ](https://github.com/vietanhtb/OSI#4-t%E1%BA%A7ng-v%E1%BA%ADn-chuy%E1%BB%83n-transport)
     
-* ### [5. Tầng phiên (Session) ]()
+* ### [5. Tầng phiên (Session) ](https://github.com/vietanhtb/OSI#5-t%E1%BA%A7ng-phi%C3%AAn-session)
     
-* ### [6. Tầng trình diễn (Presentation) ]()
+* ### [6. Tầng trình diễn (Presentation) ](https://github.com/vietanhtb/OSI#6-t%E1%BA%A7ng-tr%C3%ACnh-di%E1%BB%85n-presentation)
     
-* ### [7. Tầng Ứng dụng (Application)]()
+* ### [7. Tầng Ứng dụng (Application)](https://github.com/vietanhtb/OSI#7-t%E1%BA%A7ng-%E1%BB%A9ng-d%E1%BB%A5ng-application-1)
 
     
- ## [II. Các giao thức trong OSI]()
+ ## [II. Các giao thức trong OSI](https://github.com/vietanhtb/OSI#ii-c%C3%A1c-giao-th%E1%BB%A9c-trong-osi-1)
  
- ## [III. Phương thức hoạt động của mô hình OSI]()
+ ## [III. Phương thức hoạt động của mô hình OSI](https://github.com/vietanhtb/OSI#iii-ph%C6%B0%C6%A1ng-th%E1%BB%A9c-ho%E1%BA%A1t-%C4%91%E1%BB%99ng-c%E1%BB%A7a-m%C3%B4-h%C3%ACnh-osi-1)
  
-* ### [1. Bên máy gửi]()
+* ### [1. Bên máy gửi](https://github.com/vietanhtb/OSI#1-b%C3%AAn-m%C3%A1y-g%E1%BB%ADi-1)
     
-* ### [2. Bên máy nhận]()
+* ### [2. Bên máy nhận](https://github.com/vietanhtb/OSI#2-b%C3%AAn-m%C3%A1y-nh%E1%BA%ADn-1)
     
 ***
 # ***I.	Mô hình OSI là gì***
